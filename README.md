@@ -1,6 +1,6 @@
 # Hey 👋
 
-My name is Bruno P. Martins 👩🏼‍🇧🇷
+My name is Bruno P. Martins 😼
 
 I'm a Internet Systems student.  💻
 
