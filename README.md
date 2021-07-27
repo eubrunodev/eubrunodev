@@ -2,6 +2,8 @@
 
 My name is Bruno P. Martins 😼
 
+I'm 18 yo
+
 I'm a Internet Systems student.  💻
 
 Discord Bot Developer since 2019.
