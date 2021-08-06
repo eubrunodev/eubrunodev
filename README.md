@@ -1,4 +1,4 @@
-## Whatzup 👋
+## Hey 👋
 
 🎓 Estudante de Sistemas para Internet.
 
