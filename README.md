@@ -1,4 +1,4 @@
-## Olá, eu sou o Bruno. 👋
+## Whatzup 👋
 
 🎓 Estudante de Sistemas para Internet.
 
