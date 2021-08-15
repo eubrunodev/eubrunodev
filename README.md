@@ -1,6 +1,6 @@
 ## Hey 👋
 
-🎓 Estudante de Sistemas para Internet.
+🎓 Internet Systems Student.
 
 ✌ i'm 18 yo
 
