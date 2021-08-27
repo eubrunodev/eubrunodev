@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  👉 Meu Discord: <strong> ! GlockH$#7448.</strong>
+  👉 My Discord: <strong> ! GlockH$#7448.</strong>
 </p>
 
 <p align="center">
