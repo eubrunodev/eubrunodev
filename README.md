@@ -19,11 +19,11 @@
 </p>
 
 <p align="center">
-  👉 Meu Discord: ! GlockH$#7448.</strong>
+  👉 Meu Discord: <strong> ! GlockH$#7448.</strong>
 </p>
 
 <p align="center">
-  🌍 From Maringá-PR.</strong>
+  🌍 From <strong>Maringá-PR.</strong>
 </p>
 
  <div>
