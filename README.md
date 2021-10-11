@@ -18,9 +18,6 @@
   🚀  Learning: <strong>PHP, Python and Java.</strong>
 </p>
 
-<p align="center">
-  👉 My Discord: <strong> ! GlockH$#7448.</strong>
-</p>
 
 <p align="center">
   🌍 From <strong>Maringá-PR.</strong>
