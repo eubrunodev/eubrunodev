@@ -15,7 +15,7 @@
   I'm <strong>Internet Systems Student</strong>.<br />
 
 <p align="center">
-  🚀  Learning: <strong>PHP, JavaScript and Java.</strong>
+  🚀  Learning: <strong>PHP, Python and Java.</strong>
 </p>
 
 <p align="center">
