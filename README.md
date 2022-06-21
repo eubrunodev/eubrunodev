@@ -1,6 +1,6 @@
 <span align="center">
 
-## <img src="https://i.imgur.com/0hdZ65D.gif" width="40px"> Welcome!</h2>
+<h2>Welcome!</h2>
 
 </span>
 
@@ -15,7 +15,7 @@
   I'm <strong>Internet Systems Student</strong>.<br />
 
 <p align="center">
-  🚀  Learning: <strong>PHP, JavaScript and Java.</strong>
+  🚀  Learning: <strong>HTML, CSS, JavaScript and PHP</strong>
 </p>
 
 
