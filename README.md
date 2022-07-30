@@ -10,7 +10,7 @@ Sou um desenvolvedor **Web** e de **Discord Bots** com foco em Back-end, apaixon
 ## Informações pessoais:
 
 - Tenho conhecimento em **Node.js** com o banco de dados **MongoDB**;
-- Estou em um projeto, desenvolvendo um sistema para envio de mensagens automáticas pelo WhatssApp, para o e-commerce do meu irmão. Usando React JS e a minha REST Api;
+- Estou em um projeto, desenvolvendo um sistema para envio de mensagens automáticas pelo WhatssApp, para o e-commerce do meu irmão. Usando React JS e a minha REST API;
   
 ## Tecnlogias que eu tenho experiência:
 
