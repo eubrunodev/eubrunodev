@@ -20,8 +20,8 @@ Sou um desenvolvedor **Web** e de **Discord Bots** com foco em Back-end, apaixon
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css" alt="css3" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="40" height="40"/> 
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" title="Node JS" alt="Node JS">
-<img src="https://img.shields.io/badge/React.js-blue?style=for-the-badge&logo=reactdotjs&logoColor=white" title="React JS" alt="React JS">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" title="Node JS"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" title="React JS"/>
   
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" title="Express JS" alt="express"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="mongodb" width="40" height="40"/> 
