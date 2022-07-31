@@ -16,17 +16,15 @@ Sou um desenvolvedor **Web** e de **Discord Bots** com foco em Back-end, apaixon
 ## Tecnlogias que eu tenho experiência:
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="html" alt="html5" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css" alt="css3" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="40" height="40"/> 
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" title="Node JS"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" title="React"/>
-  
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" title="Express JS" alt="express"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="mongodb" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="git" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" title="Heroku" alt="heroku" width="40" height="40" />
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="html" alt="html5" width="40" height="40"/> 
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css" alt="css3" width="40" height="40"/> 
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="40" height="40"/> 
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" title="Node JS"/>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" title="React"/>
+<img align="center" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" title="Express JS" alt="express"/> 
+<img align="center" title="MongoDB" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/mongodb/mongodb-original.svg"> 
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="git" width="40" height="40"/> 
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" title="Heroku" alt="heroku" width="40" height="40" />
 </p>
 
 <hr />
