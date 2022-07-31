@@ -15,6 +15,7 @@ Sou um desenvolvedor **Web** e de **Discord Bots** com foco em Back-end, apaixon
 
 ## Objetivos
 - Atuar como Desenvolvedor Full-Stack Web e Mobile.
+- Atuar na área como Dev JR ou como Estagiário.
   
 ## Tecnlogias que eu tenho experiência:
 
