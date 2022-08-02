@@ -3,7 +3,7 @@
 ### 👦 Um pouco sobre mim ...
 Meu nome é Bruno e minha jornada como dev começou no final de **2020**, desde aquela época eu me dedico para a programação.
 
-Sou um desenvolvedor **Web** e de **Discord Bots** com foco em Back-end, apaixonado em transformar as minhas ideias malucas em softwares e em projetos. 😜
+Sou um desenvolvedor **Web** e de **Mobile** com foco em Full-stack, apaixonado em transformar as minhas ideias malucas em softwares e em projetos. 😜
 
 <hr />
 
