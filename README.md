@@ -11,8 +11,7 @@ Sou um desenvolvedor **Web** e **Mobile** com foco em Full-stack, apaixonado em 
 
 - Faço Faculdade de Sistemas para Internet na Unicesumar.
 - Tenho conhecimento em **Node.js** com o banco de dados **MongoDB**;
-- Conhecimento em PHP e MySql;
-- Conhecimento em HTML, CSS e JavaScript;
+- Conhecimento em **HTML5**, **CSS3**, **JavaScript**, **PHP** e **MySql**;
 - Estudando sobre React JS e React Native;
 
 ## Objetivos
