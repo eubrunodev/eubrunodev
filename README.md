@@ -15,8 +15,8 @@ Sou um desenvolvedor **Web** e **Mobile** com foco em Full-stack, apaixonado em 
 - Estudando sobre React JS e React Native;
 
 ## Objetivos
+- Entrar na área como Dev JR ou como Estagiário.
 - Me tornar um Desenvolvedor Full-Stack Web e Mobile.
-- Atuar na área como Dev JR ou como Estagiário.
   
 ## Tecnlogias que eu tenho experiência:
 
