@@ -1,7 +1,7 @@
 # Olá, seja bem-vindo ao meu Perfil 👋
 
 ### 👦 Um pouco sobre mim ...
-Meu nome é Bruno e minha jornada como dev começou no final de **2020**, desde aquela época eu me dedico para a programação.
+Sou uma pessoa que gosta de descobrir coisas novas, principalmente na área da tecnologia. Comecei no mundo da programação no final de 2020, desenvolvendo Bots para o Discord.
 
 Sou um desenvolvedor **Web** e **Mobile** com foco em Full-stack, apaixonado em transformar as minhas ideias malucas em softwares e em projetos. 😜
 
@@ -12,7 +12,7 @@ Sou um desenvolvedor **Web** e **Mobile** com foco em Full-stack, apaixonado em 
 - Faço Faculdade de Sistemas para Internet na Unicesumar.
 - Tenho conhecimento em **Node.js** com o banco de dados **MongoDB**;
 - Conhecimento em **HTML5**, **CSS3**, **JavaScript**, **PHP** e **MySql**;
-- Estudando sobre React JS e React Native;
+- Estudando sobre **React JS** e **React Native**;
 
 ## Objetivos
 - Entrar na área como Dev JR ou como Estagiário.
