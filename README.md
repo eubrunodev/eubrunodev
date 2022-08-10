@@ -15,19 +15,21 @@ Sou um desenvolvedor **Web** e **Mobile** com foco no Full-stack, apaixonado em 
   
 ## Tecnlogias que eu tenho experiência:
 
-<p align="left">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="html" alt="html5" width="40" height="40"/> 
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css" alt="css3" width="40" height="40"/> 
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="40" height="40"/> 
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" title="Node JS"/>
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" title="React"/>
-<img align="center" title="MongoDB" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/mongodb/mongodb-original.svg"> 
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="git" width="40" height="40"/> 
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" title="Heroku" alt="heroku" width="40" height="40" />
-</p>
-<p>
-  <img src="https://aleen42.github.io/badges/src/visual_studio_code.svg" alt="vsc"/>
-</p>
+**Front-end**
+
+[![My Skills](https://skillicons.dev/icons?i=react,html,css,bootstrap,js)](https://github.com/eubrunodev)
+
+**Back-end**
+
+[![My Skills](https://skillicons.dev/icons?i=php,nodejs,js)](https://github.com/eubrunodev)
+
+**Banco de Dados**
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://github.com/eubrunodev)
+
+**Outras Tecnologias**
+
+[![My Skills](https://skillicons.dev/icons?i=figma,git,androidstudio,heroku)](https://github.com/eubrunodev)
 
 <hr />
 
