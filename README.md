@@ -25,6 +25,9 @@ Sou um desenvolvedor **Web** e **Mobile** com foco no Full-stack, apaixonado em 
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="git" width="40" height="40"/> 
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" title="Heroku" alt="heroku" width="40" height="40" />
 </p>
+<p>
+  <img src="https://aleen42.github.io/badges/src/visual_studio_code.svg" alt="vsc"/>
+</p>
 
 <hr />
 
