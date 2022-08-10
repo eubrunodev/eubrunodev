@@ -1,9 +1,11 @@
-# Olá, seja bem-vindo ao meu Perfil 👋
+# Olá, seja bem-vindo(a) ao meu Perfil! 👋
 
 ### 👦 Um pouco sobre mim ...
 Gosto de descobrir coisas novas, principalmente na área da tecnologia. Comecei no mundo da programação no final de 2020, desenvolvendo Bots para o Discord.
 
 Sou um desenvolvedor **Web** e **Mobile** com foco no Full-stack, apaixonado em transformar as minhas ideias malucas em softwares e em projetos. 😜
+
+Gosto de jogar CS:GO nas horas vagas.
 
 <hr />
 
