@@ -1,4 +1,4 @@
-# Olá, seja bem-vindo(a) ao meu Perfil! 👋
+# Hi there! 👋
 
 ### 👦 Um pouco sobre mim ...
 Gosto de descobrir coisas novas, principalmente na área da tecnologia. Comecei no mundo da programação no final de 2020, desenvolvendo Bots para o Discord.
@@ -13,7 +13,7 @@ Gosto de jogar CS:GO nas horas vagas.
 
 - Faço Faculdade de Sistemas para Internet na Unicesumar.
 - Tenho conhecimento em **Node.js** com o banco de dados **MongoDB**;
-- Estudando sobre **React JS** e **React Native**;
+- Atualmente fazendo aplicativos mobile nativos, usando **React Native**, em breve postarei alguns projetos desenvolvidos;
   
 ## Tecnlogias que eu tenho experiência:
 
