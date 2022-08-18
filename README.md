@@ -3,9 +3,7 @@
 ### 👦 Um pouco sobre mim ...
 Gosto de descobrir coisas novas, principalmente na área da tecnologia. Comecei no mundo da programação no final de 2020, desenvolvendo Bots para o Discord.
 
-Sou um desenvolvedor **Web** e **Mobile** com foco no Full-stack, apaixonado em transformar as minhas ideias malucas em softwares e em projetos. 😜
-
-Gosto de jogar CS:GO nas horas vagas.
+**Mobile Full-Stack Developer** 🤳
 
 <hr />
 
@@ -13,7 +11,7 @@ Gosto de jogar CS:GO nas horas vagas.
 
 - Faço Faculdade de Sistemas para Internet na Unicesumar.
 - Tenho conhecimento em **Node.js** com o banco de dados **MongoDB**;
-- Atualmente fazendo aplicativos mobile nativos, usando **React Native**, em breve postarei alguns projetos desenvolvidos;
+- Criação de aplicativos **mobile nativos**, usando **React Native**;
   
 ## Tecnlogias que eu tenho experiência:
 
