@@ -1,9 +1,6 @@
 # Hi there! 👋
 
-### 👦 Um pouco sobre mim ...
-Gosto de descobrir coisas novas, principalmente na área da tecnologia. Comecei no mundo da programação no final de 2020, desenvolvendo Bots para o Discord.
-
-**Mobile Full-Stack Developer** 🤳
+## **Full-Stack Mobile Developer** 🤳
 
 <hr />
 
