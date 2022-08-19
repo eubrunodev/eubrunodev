@@ -9,6 +9,7 @@ I like to play CS:GO in my free time
 
 ## Personal Information:
 
+- From Maringá-PR;
 - I'm studying Internet Systems at Unicesumar;
 - Currently building native mobile apps using React Native;
   
