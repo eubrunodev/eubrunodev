@@ -13,7 +13,10 @@ I like to play CS:GO in my free time;
 - I'm studying Internet Systems at Unicesumar;
 - Currently building native mobile apps using React Native;
 
-https://bit.ly/3QCLTyO
+Check My Projects on my Youtube Channel:
+
+
+<a href="https://bit.ly/3QCLTyO" target="_blank"> <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Discord" width="40" height="40"/></a>
   
 ## Some Technologies that i have skills:
 
