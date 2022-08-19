@@ -2,7 +2,7 @@
 
 ## A little about myself
 I'm 19 yo; <br/>
-I'm **Full-Stack Mobile Developer**; <br/>
+I'm a **Júnior Mobile Developer**; <br/>
 I like to play CS:GO in my free time;
 
 <hr />
