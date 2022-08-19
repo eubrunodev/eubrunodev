@@ -12,6 +12,8 @@ I like to play CS:GO in my free time;
 - From Maringá-PR;
 - I'm studying Internet Systems at Unicesumar;
 - Currently building native mobile apps using React Native;
+
+https://bit.ly/3QCLTyO
   
 ## Some Technologies that i have skills:
 
