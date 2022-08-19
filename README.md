@@ -1,4 +1,8 @@
 # Hi there! 👋
+Check My Mobile Projects on my Youtube Channel:
+
+
+<a href="https://bit.ly/3QCLTyO" target="_blank"> <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Discord" width="40" height="40"/></a>
 
 ## A little about myself
 I'm 19 yo; <br/>
@@ -12,11 +16,6 @@ I like to play CS:GO in my free time;
 - From Maringá-PR;
 - I'm studying Internet Systems at Unicesumar;
 - Currently building native mobile apps using React Native;
-
-Check My Projects on my Youtube Channel:
-
-
-<a href="https://bit.ly/3QCLTyO" target="_blank"> <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Discord" width="40" height="40"/></a>
   
 ## Some Technologies that i have skills:
 
