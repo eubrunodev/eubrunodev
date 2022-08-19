@@ -1,9 +1,9 @@
 # Hi there! 👋
 
 ## A little about myself
-I'm 19 yo <br/>
-I'm **Full-Stack Mobile Developer** 🤳 <br/>
-I like to play CS:GO in my free time
+I'm 19 yo; <br/>
+I'm **Full-Stack Mobile Developer**; <br/>
+I like to play CS:GO in my free time;
 
 <hr />
 
@@ -17,7 +17,7 @@ I like to play CS:GO in my free time
 
 **Front-end**
 
-[![My Skills](https://skillicons.dev/icons?i=react,html,css,bootstrap,js)](https://github.com/eubrunodev)
+[![My Skills](https://skillicons.dev/icons?i=react,html,css,bootstrap,js,ts)](https://github.com/eubrunodev)
 
 **Back-end**
 
