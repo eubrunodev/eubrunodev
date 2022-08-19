@@ -21,7 +21,7 @@ I like to play CS:GO in my free time;
 
 **Back-end**
 
-[![My Skills](https://skillicons.dev/icons?i=php,nodejs,js)](https://github.com/eubrunodev)
+[![My Skills](https://skillicons.dev/icons?i=php,nodejs,express)](https://github.com/eubrunodev)
 
 **Banco de Dados**
 
