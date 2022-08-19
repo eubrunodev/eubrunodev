@@ -1,16 +1,18 @@
 # Hi there! 👋
 
-## **Full-Stack Mobile Developer** 🤳
+## A little about myself
+I'm 19 yo <br/>
+I'm **Full-Stack Mobile Developer** 🤳 <br/>
+I like to play CS:GO in my free time
 
 <hr />
 
-## Informações pessoais:
+## Personal Information:
 
-- Faço Faculdade de Sistemas para Internet na Unicesumar.
-- Tenho conhecimento em **Node.js** com o banco de dados **MongoDB**;
-- Criação de aplicativos **mobile nativos**, usando **React Native**;
+- I'm studying Internet Systems at Unicesumar;
+- Currently building native mobile apps using React Native;
   
-## Tecnlogias que eu tenho experiência:
+## Some Technologies that i have skills:
 
 **Front-end**
 
