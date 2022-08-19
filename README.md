@@ -2,7 +2,7 @@
 Check My Mobile Projects on my Youtube Channel:
 
 
-<a href="https://bit.ly/3QCLTyO" target="_blank"> <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Discord" width="40" height="40"/></a>
+<a href="https://bit.ly/3QCLTyO" target="_blank"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Discord" width="40" height="40"/></a>
 
 ## A little about myself
 I'm 19 yo; <br/>
