@@ -34,7 +34,7 @@ I like to play CS:GO in my free time;
 
 **Outras Tecnologias**
 
-[![My Skills](https://skillicons.dev/icons?i=figma,git,androidstudio,heroku)](https://github.com/eubrunodev)
+[![My Skills](https://skillicons.dev/icons?i=figma,git,androidstudio,heroku,firebase)](https://github.com/eubrunodev)
 
 <hr />
 
