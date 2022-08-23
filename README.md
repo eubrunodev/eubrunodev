@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 
-<h4> Check My Mobile Projects on my Youtube Channel:</h4>
+<h4> Check my mobile projects on my Youtube Channel:</h4>
 
 <a href="https://bit.ly/3QCLTyO" target="_blank"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Discord" width="40" height="40"/></a>
 
@@ -18,7 +18,7 @@ I like to play CS:GO in my free time;
 - I'm studying Internet Systems at Unicesumar;
 - Currently building native mobile apps using React Native;
   
-## Some Technologies that i have skills:
+## Some Technologies skills:
 
 **Front-end**
 
@@ -28,11 +28,11 @@ I like to play CS:GO in my free time;
 
 [![My Skills](https://skillicons.dev/icons?i=php,nodejs,express)](https://github.com/eubrunodev)
 
-**Banco de Dados**
+**Data Base**
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://github.com/eubrunodev)
 
-**Outras Tecnologias**
+**Other Technologies**
 
 [![My Skills](https://skillicons.dev/icons?i=figma,git,androidstudio,heroku,firebase)](https://github.com/eubrunodev)
 
