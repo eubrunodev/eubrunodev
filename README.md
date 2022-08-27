@@ -3,7 +3,7 @@
 
 <h4> Check my mobile projects on my Youtube Channel:</h4>
 
-<a href="https://bit.ly/3QCLTyO" target="_blank"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Discord" width="40" height="40"/></a>
+<a href="https://bit.ly/3KtPdu0" target="_blank"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Discord" width="40" height="40"/></a>
 
 ## A little about myself
 I'm 19 yo; <br/>
