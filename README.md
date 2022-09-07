@@ -6,7 +6,7 @@
 <a href="https://bit.ly/3KtPdu0" target="_blank"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Discord" width="40" height="40"/></a>
 
 ## A little about myself
-I'm 19 yo; <br/>
+I'm 19 years old; <br/>
 I'm a **Júnior Mobile Developer**; <br/>
 I like to play CS:GO in my free time;
 
