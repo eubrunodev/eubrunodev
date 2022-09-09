@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there! 👋.
 
 
 <h4> Check my mobile projects on my Youtube Channel:</h4>
