@@ -32,4 +32,11 @@
 
 <hr />
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eubrunodev&theme=dark)](https://git.io/streak-stats)
+<p>
+<a href="https://github.com/eubrunodev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eubrunodev&theme=gotham" />
+</a>
+<a href="https://github.com/gabrieldiasss">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=eubrunodev&show_icons=true&theme=gotham" alt="eubrunodev" />
+</a>
+</p>
