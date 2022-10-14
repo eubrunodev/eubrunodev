@@ -20,7 +20,7 @@
 
 **Back-end**
 
-[![My Skills](https://skillicons.dev/icons?i=php,nodejs,express)](https://github.com/eubrunodev)
+[![My Skills](https://skillicons.dev/icons?i=php,nodejs,express,firebase)](https://github.com/eubrunodev)
 
 **Data Base**
 
@@ -28,7 +28,7 @@
 
 **Other Technologies**
 
-[![My Skills](https://skillicons.dev/icons?i=figma,git,androidstudio,heroku,firebase)](https://github.com/eubrunodev)
+[![My Skills](https://skillicons.dev/icons?i=figma,git,androidstudio,heroku)](https://github.com/eubrunodev)
 
 <hr />
 
