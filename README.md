@@ -7,6 +7,8 @@
 - I'm studying Internet Systems at Unicesumar;
 - Currently building native mobile apps using React Native;
 
+I think that i like front-end more than back-end 
+
 <hr />
 <h4> Check my mobile projects on my Youtube Channel:</h4>
 
