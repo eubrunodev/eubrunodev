@@ -30,7 +30,7 @@ I think that i like front-end more than back-end
 
 **Other Technologies**
 
-[![My Skills](https://skillicons.dev/icons?i=figma,git,androidstudio,heroku)](https://github.com/eubrunodev)
+[![My Skills](https://skillicons.dev/icons?i=figma,git,androidstudio,heroku,wordpress)](https://github.com/eubrunodev)
 
 <hr />
 
