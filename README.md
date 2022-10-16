@@ -22,7 +22,7 @@ I think that i like front-end more than back-end
 
 **Back-end**
 
-[![My Skills](https://skillicons.dev/icons?i=php,nodejs,express,firebase)](https://github.com/eubrunodev)
+[![My Skills](https://skillicons.dev/icons?i=php,nodejs,ts,express,firebase)](https://github.com/eubrunodev)
 
 **Data Base**
 
