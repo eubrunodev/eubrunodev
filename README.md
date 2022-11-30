@@ -31,14 +31,3 @@ I think that i like front-end more than back-end
 **Other Technologies**
 
 [![My Skills](https://skillicons.dev/icons?i=figma,git,androidstudio,heroku,wordpress)](https://github.com/eubrunodev)
-
-<hr />
-
-<p>
-<a href="https://github.com/eubrunodev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eubrunodev&theme=gotham" />
-</a>
-<a href="https://github.com/gabrieldiasss">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=eubrunodev&show_icons=true&theme=gotham" alt="eubrunodev" />
-</a>
-</p>
