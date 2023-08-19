@@ -6,6 +6,7 @@
 - From Maringá-PR;
 - I'm studying Internet Systems at Unicesumar;
 - Currently building native mobile apps using React Native;
+- Starting in script development for Fivem, using the vRP framework
 
 I think that i like front-end more than back-end 
 
@@ -22,7 +23,7 @@ I think that i like front-end more than back-end
 
 **Back-end**
 
-[![My Skills](https://skillicons.dev/icons?i=php,nodejs,ts,express,firebase)](https://github.com/eubrunodev)
+[![My Skills](https://skillicons.dev/icons?i=php,nodejs,ts,express,firebase,lua)](https://github.com/eubrunodev)
 
 **Data Base**
 
