@@ -2,13 +2,9 @@
 
 ## Personal Information:
 - I'm 20 years old;
-- I'm a **Júnior Mobile Developer**;
 - From Maringá-PR;
-- I'm studying Internet Systems at Unicesumar;
-- Currently building native mobile apps using React Native;
+- Graduated Internet Systems at Unicesumar;
 - Starting in script development for Fivem, using the vRP framework
-
-I think that i like front-end more than back-end 
 
 <hr />
 <h4> Check my mobile projects on my Youtube Channel:</h4>
