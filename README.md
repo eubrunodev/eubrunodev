@@ -15,7 +15,7 @@
 
 **Front-end**
 
-[![My Skills](https://skillicons.dev/icons?i=react,html,css,bootstrap,js,ts)](https://github.com/eubrunodev)
+[![My Skills](https://skillicons.dev/icons?i=react,html,css,bootstrap,js)](https://github.com/eubrunodev)
 
 **Back-end**
 
