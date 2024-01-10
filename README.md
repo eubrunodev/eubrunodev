@@ -3,7 +3,7 @@
 ## Personal Information:
 - I'm 20 years old;
 - From Maringá-PR;
-- Graduated Internet Systems at Unicesumar;
+- Graduated in Internet Systems at Unicesumar;
 - Starting in script development for Fivem, using the vRP framework
 
 <hr />
