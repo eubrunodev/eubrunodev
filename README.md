@@ -5,6 +5,8 @@
 - From Maringá-PR;
 - Graduated in Internet Systems at Unicesumar;
 - Starting in script development for Fivem, using the vRP framework
+- Future Ethical Hacker
+- Studying cyber secutiry
 
 <hr />
 <h4> Check my mobile projects on my Youtube Channel:</h4>
