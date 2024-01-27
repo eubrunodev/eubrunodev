@@ -4,7 +4,6 @@
 - I'm 20 years old;
 - From Maringá-PR;
 - Graduated in Internet Systems at Unicesumar;
-- Starting in script development for Fivem, using the vRP framework;
 - Studying Ethical Hacking;
 
 <hr />
