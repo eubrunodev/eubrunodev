@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 ## Personal Information:
-- From Maringá-PR;
+- I'm 20y old;
 - Graduated in Internet Systems at Unicesumar;
 - Studying Ethical Hacking;
 
