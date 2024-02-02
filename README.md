@@ -18,7 +18,7 @@
 
 **Back-end**
 
-[![My Skills](https://skillicons.dev/icons?i=php,nodejs,express,firebase,lua)](https://github.com/eubrunodev)
+[![My Skills](https://skillicons.dev/icons?i=php,nodejs,express,firebase,lua,python)](https://github.com/eubrunodev)
 
 **Data Base**
 
