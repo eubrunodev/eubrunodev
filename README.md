@@ -4,6 +4,7 @@
 - I'm 20y old;
 - Graduated in Internet Systems at Unicesumar;
 - Studying Ethical Hacking;
+- Web Scraper
 
 <hr />
 <h4> Check my mobile projects on my Youtube Channel:</h4>
