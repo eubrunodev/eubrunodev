@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 ## Personal Information:
-I'm 21y old;
+I'm 22y old;
 - 👨‍🎓 Graduated in Internet Systems at Unicesumar;
 - 💼 Front-end Developer
 
