@@ -4,6 +4,7 @@
 I'm 22y old;
 - 👨‍🎓 Graduated in Internet Systems at Unicesumar;
 - 💼 Front-end Developer
+- Minecraft Plugin Developer
 
 <hr />
 <h4>👉 Check my mobile projects on my Youtube Channel 👈</h4>
@@ -18,7 +19,7 @@ I'm 22y old;
 
 **Back-end**
 
-[![My Skills](https://skillicons.dev/icons?i=php,nodejs,express,firebase,lua,python)](https://github.com/eubrunodev)
+[![My Skills](https://skillicons.dev/icons?i=php,nodejs,express,firebase,lua,python,java)](https://github.com/eubrunodev)
 
 **Data Base**
 
