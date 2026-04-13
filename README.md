@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Bruno+%F0%9F%91%8B;Front-end+Developer+%F0%9F%92%BB;Minecraft+Plugin+Developer+%E2%9A%94%EF%B8%8F;Graduated+in+Internet+Systems+%F0%9F%8E%93;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<a href="https://bit.ly/3KtPdu0" target="_blank">
+<a href="https://www.youtube.com/watch?v=nTI8C-VNEo8" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=eubrunodev&style=for-the-badge&color=0072ff&label=PROFILE+VIEWS" />
@@ -86,7 +86,7 @@ const bruno = {
 
 **📺 Check out my mobile projects on YouTube!**
 
-<a href="https://www.youtube.com/@eubrunodev6533">
+<a href="https://www.youtube.com/@eubrunodev6533" target="_blank">
   <img src="https://img.shields.io/badge/▶_Watch_Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
