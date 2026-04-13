@@ -86,7 +86,7 @@ const bruno = {
 
 **📺 Check out my mobile projects on YouTube!**
 
-<a href="https://bit.ly/3KtPdu0">
+<a href="https://www.youtube.com/@eubrunodev6533">
   <img src="https://img.shields.io/badge/▶_Watch_Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
