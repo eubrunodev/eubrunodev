@@ -19,7 +19,7 @@
 const bruno = {
   age:        23,
   degree:     "Internet Systems @ Unicesumar",
-  roles:      ["Front-end Developer", "Minecraft Plugin Developer", "Automation developer"],
+  roles:      ["Front-end Developer", "Minecraft Plugin Developer", "Automation Developer"],
   passions:   ["Building UIs", "Games plugins", "Mobile apps"],
   currently:  "Turning ideas into code ☕",
 };
