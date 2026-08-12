@@ -21,16 +21,6 @@ const bruno = {
 };
 ```
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=eubrunodev&theme=tokyonight&hide_border=true&background=0d1117&stroke=00c6ff&ring=0072ff&fire=ff6b6b&currStreakLabel=00c6ff&sideLabels=c9d1d9&dates=c9d1d9" />
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
