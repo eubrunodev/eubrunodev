@@ -59,16 +59,6 @@ const bruno = {
 
 </div>
 
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eubrunodev&bg_color=0d1117&color=00c6ff&line=0072ff&point=ffffff&area=true&hide_border=true" />
-</div>
-
----
-
 <div align="center">
 
 **📺 Check out my mobile projects on YouTube!**
